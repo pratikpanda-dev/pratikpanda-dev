@@ -2,8 +2,8 @@
 
 ### 🚀 Java Developer | Backend Engineer | AWS Enthusiast
 
-<p align="left">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWthNWttZ21sb3Y2ejRmc21xZXdudHR2NWJoM2lpbjZ0cmU3djh0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZrdWt2dGJxMnMzZWgyc3B6ODl2eGdkZnE0M2tmNXd5bzQ3NnlqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="300"/>
 </p>
 
 ---
@@ -33,7 +33,6 @@
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge\&logo=apachekafka\&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge\&logo=apachekafka\&logoColor=white)
 
 ### ☁️ Cloud & Database
 
@@ -52,28 +51,41 @@
 
 ## 📂 Featured Projects
 
-### 🏥 Healthcare Order Automation
+### 🏥 Healthcare Order Management System
 
-* Automation framework for patient order workflows
-* Integrated with DynamoDB
-* Generated provider-signature PDFs
-* Tech Stack: Java, Selenium, RestAssured, AWS
+Developed scalable backend services for patient order workflows
 
----
+Designed and implemented REST APIs using Spring Boot
 
-### 📡 API Automation Framework
+Integrated with AWS DynamoDB for patient, clinician, and order data
 
-* Built scalable API automation using RestAssured + BDD
-* CI/CD integration with Jenkins
-* Data-driven testing with JSON & CSV
+Generated provider-signature PDFs and handled document workflows
+
+Implemented microservice-based architecture for better scalability
+
+Tech Stack: Java, Spring Boot, DynamoDB, REST APIs, AWS, Maven
+
+### 📡 Backend API & Microservices Platform
+
+Built secure and scalable backend APIs using Spring Boot & Hibernate
+
+Designed microservices for communication between healthcare modules
+
+Implemented Kafka-based event-driven architecture for async processing
+
+Integrated CI/CD pipelines with Jenkins and Git
+
+Optimized database queries and improved performance
+
+Tech Stack: Java, Spring Boot, Kafka, Hibernate, MySQL, AWS
 
 ---
 
 ## 📊 GitHub Stats
 
-![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=radical)
+![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikpanda-dev&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikpanda-dev&layout=compact&theme=radical)
 
 ---
 
